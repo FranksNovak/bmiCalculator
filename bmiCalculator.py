@@ -1,6 +1,6 @@
 #výpočet BMI
 # BMI = váha v kg / (výšky v m) na2
-
+name = input("Zadejte své jméno/n")
 height = float(input("zadejte svou výšku v m:\n"))
 weight = float(input("zadejte svou váhu v kg:\n"))
 
