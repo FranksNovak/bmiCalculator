@@ -3,7 +3,7 @@
 name = input("Zadejte své jméno\n")
 height = float(input("zadejte svou výšku v m:\n"))
 weight = float(input("zadejte svou váhu v kg:\n"))
-
+print("ahoj")
 bmi = weight / height**2
 
 print(round(bmi, 1))
