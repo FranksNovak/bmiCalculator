@@ -9,7 +9,7 @@ bmi = weight / height**2
 print(round(bmi, 1))
 
 if bmi < 18.5:
-    print(f"{name} Máte podváhu")
+    print(f"{name} Máte pdodváhu")
 elif bmi < 24.9:
     print(f"{name} Máte normální váhu")
 elif bmi < 29.9:
