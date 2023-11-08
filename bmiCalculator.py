@@ -18,3 +18,5 @@ elif bmi < 34.9:
     print(f"{name} máte obezitu")
 else:
     print(f"{name} máte těžkou obezitu")
+
+print("kontrola")
